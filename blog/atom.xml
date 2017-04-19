@@ -7,10 +7,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Czolish's Blog</title>
-	<link href="http://www.czupil.com/blog/atom.xml" rel="self"/>
-	<link href="http://www.czupil.com/blog"/>
+	<link href="http://czolish.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://czolish.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://www.czupil.com/blog</id>
+	<id>http://czolish.github.io/blog</id>
 	<author>
 		<name>Czolish</name>
 		<email>czolish@gmail.com</email>
@@ -19,9 +19,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://www.czupil.com{{ post.url }}"/>
+			<link href="czolish.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://www.czupil.com{{ post.id }}</id>
+			<id>http://czolish.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
