@@ -9,4 +9,4 @@ I have worked for a County Office of Education in California for about 2 years n
 
 #### 1.  People really love their titles here.
 
-   I have changed forms several times within a year because someone's titled changed from 'whatever' to 'SENIOR whatever'.
+    I have changed forms several times within a year because someone's titled changed from 'whatever' to 'SENIOR whatever'.
