@@ -15,3 +15,9 @@ This is what gets me the most. I also have a degree. I'm not just another pretty
 
 ## 3. There's a ridiculous amount of spam calls.
 They come from all kinds of different places. Most of them are from call centers and you can tell it's a spam call because there's a weird click before someone spouts off their little script. There are a lot of debt collectors, whether they're legitimate or not, I don't know. White Pages Reverse Phone Lookup has become a very good friend of mine.
+
+## 4. People think all we do all day is sit here and wait for them, and only them, to come to the office.
+I can't tell you how many times someone has left me a voicemail full of hatred because I wasn't there at 5:30 p.m. I also get calls on the weekend from people expecting an immediate response. Here's a bit of news for them: I don't give a crap about how quickly you need to see someone. I am not coming in on the weekends just to help you, you precious snowflake. It's not my fault that you couldn't manage to call during the 45 hours a week that I am here (yes, I'm counting lunch).
+
+## 5. You can't kick people out because it's a public building.
+Technically, I can't kick people out. The building I work in is located down the street from 'Meth Central' and we occasionally get a few scragglers. Not too many, but enough to worry.
