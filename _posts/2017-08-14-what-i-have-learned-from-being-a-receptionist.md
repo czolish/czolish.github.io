@@ -23,7 +23,7 @@ I can't tell you how many times someone has left me a voicemail full of hatred b
 Technically, I can't kick people out. The building I work in is located down the street from 'Meth Central' and we occasionally get a few scragglers. Not too many, but enough to worry. 
 
 ## 6. It really pays off to be nice to the IT guys.
-I mean, this is just obvious, but I feel like I can relate to the IT guys. People are asking them stupid questions all day, they act like their problem is more important than anyone else's problem, they can't Google their issue first, so on and so forth. If you're nice to the IT guys, they won't get pissed off when you screw something up. They also are more likely to turn the other cheek if you're writing your blog while on the clock.
+I mean, this is just obvious, but I feel like I can relate to the IT guys. People are asking them stupid questions all day, they act like their problem is more important than anyone else's problem, they can't Google their issue first, so on and so forth. If you're nice to the IT guys, they're less likely to get pissed off when you screw something up. They also are more likely to turn the other cheek if you're writing your blog while on the clock.
 
 ## 7. People can't follow directions (yea, I know, huge shocker).
 How hard is it to understand '*DOWN* the hall, make a *RIGHT*'??? I mean, should I print a map out for every idiot who walks through the door??
@@ -33,3 +33,6 @@ When a child misbehaves, you correct their behavior. If an adult misbehaves, app
 
 ## 9. People think you do nothing -- even people in your own department.
 Granted, a lot of the time is down time, especially during the summer (why don't we close again??), but I do actually have work to do. It takes a surprising amount of time to do everything that I need to do (everything mail-related, updating the schedules, returning calls, making appointments, greeting people, etc.) when I'm constantly being interrupted.
+
+## 10. Everyone who works here has been here for probably 2 decades.
+And of course, they know better than you because they went to secretarial school in the 80's. If you don't wear makeup, you're an un-ladylike heathen!
