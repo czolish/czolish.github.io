@@ -30,3 +30,6 @@ How hard is it to understand '*DOWN* the hall, make a *RIGHT*'??? I mean, should
 
 ## 8. You can't correct people, even when they're in the wrong.
 When a child misbehaves, you correct their behavior. If an adult misbehaves, apparently you just take it because they're allowed to treat others like shit.
+
+## 9. People think you do nothing -- even people in your own department.
+Granted, a lot of the time is down time, especially during the summer (why don't we close again??), but I do actually have work to do. It takes a surprising amount of time to do everything that I need to do (everything mail-related, updating the schedules, returning calls, making appointments, greeting people, etc.) when I'm constantly being interrupted.
