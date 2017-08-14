@@ -8,5 +8,7 @@ comments: true
 I have worked for a County Office of Education in California for about 2 years now. I got this job about a month after I had graduated from college -- all bright-eyed and ready for the working world. As you can imagine, things haven't turned out exactly as I had envisioned them. Here is a list of a few of the things I have learned during my time as a public servant:
 
 #### 1.  People really love their titles here.
+I have changed forms several times within a year because someone's titled changed from 'whatever' to 'SENIOR whatever'. That is a ridiculous amount of paper wasted.
 
-   I have changed forms several times within a year because someone's titled changed from 'whatever' to 'SENIOR whatever'.
+#### 2.  Regardless of someone's status, whether they're a student's parents or a superintendent from a school district, they will talk down to you like you're an idiot because you're at the front desk, and somehow that equates to you being an idiot.
+This is what gets me the most. I also have a degree. I'm not just another pretty face with no brain. This is not my chosen career, either. This is a stepping stone onto bigger and better things. It also pays the bills (or some of them, at least -- the real estate market around here is a whole other story).
