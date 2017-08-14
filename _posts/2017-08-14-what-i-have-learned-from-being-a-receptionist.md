@@ -20,4 +20,10 @@ They come from all kinds of different places. Most of them are from call centers
 I can't tell you how many times someone has left me a voicemail full of hatred because I wasn't there at 5:30 p.m. I also get calls on the weekend from people expecting an immediate response. Here's a bit of news for them: I don't give a crap about how quickly you need to see someone. I am not coming in on the weekends just to help you, you precious snowflake. It's not my fault that you couldn't manage to call during the 45 hours a week that I am here (yes, I'm counting lunch).
 
 ## 5. You can't kick people out because it's a public building.
-Technically, I can't kick people out. The building I work in is located down the street from 'Meth Central' and we occasionally get a few scragglers. Not too many, but enough to worry.
+Technically, I can't kick people out. The building I work in is located down the street from 'Meth Central' and we occasionally get a few scragglers. Not too many, but enough to worry. 
+
+## 6. It really pays off to be nice to the IT guys.
+I mean, this is just obvious, but I feel like I can relate to the IT guys. People are asking them stupid questions all day, they act like their problem is more important than anyone else's problem, they can't Google their issue first, so on and so forth. If you're nice to the IT guys, they won't get pissed off when you screw something up. They also are more likely to turn the other cheek if you're writing your blog while on the clock.
+
+## 7. People can't follow directions (yea, I know, huge shocker).
+How hard is it to understand '*DOWN* the hall, make a *RIGHT*'??? I mean, should I print a map out for every idiot who walks through the door??
