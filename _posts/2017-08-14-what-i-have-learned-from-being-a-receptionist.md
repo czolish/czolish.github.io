@@ -27,3 +27,6 @@ I mean, this is just obvious, but I feel like I can relate to the IT guys. Peopl
 
 ## 7. People can't follow directions (yea, I know, huge shocker).
 How hard is it to understand '*DOWN* the hall, make a *RIGHT*'??? I mean, should I print a map out for every idiot who walks through the door??
+
+## 8. You can't correct people, even when they're in the wrong.
+When a child misbehaves, you correct their behavior. If an adult misbehaves, apparently you just take it because they're allowed to treat others like shit.
