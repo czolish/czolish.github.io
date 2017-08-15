@@ -26,7 +26,7 @@ Technically, I can't kick people out. The building I work in is located down the
 I mean, this is just obvious, but I feel like I can relate to the IT guys. People are asking them stupid questions all day, they act like their problem is more important than anyone else's problem, they can't Google their issue first, so on and so forth. If you're nice to the IT guys, they're less likely to get pissed off when you screw something up. They also are more likely to turn the other cheek if you're writing your blog while on the clock.
 
 ## 7. People can't follow directions (yea, I know, huge shocker).
-How hard is it to understand '*DOWN* the hall, make a *RIGHT*'??? I mean, should I print a map out for every idiot who walks through the door??
+How hard is it to understand '*DOWN* the hall, make a *RIGHT*'??? I mean, should I print a map out for every idiot who walks through the door?? And teachers are the biggest perpetrators! I send them a list with very specific instructions that are beyond easy to follow, yet they miss crucial pieces of information. I mean, I know California has a teacher shortage, but are they just *handing* out teaching credentials??
 
 ## 8. You can't correct people, even when they're in the wrong.
 When a child misbehaves, you correct their behavior. If an adult misbehaves, apparently you just take it because they're allowed to treat others like shit.
