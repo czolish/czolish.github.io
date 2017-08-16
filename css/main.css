@@ -4,7 +4,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Walter Turncoat', cursive;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -66,7 +66,7 @@ ul.footer li {
 }    
 
 .post-footer {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Walter Turncoat', cursive;
     font-weight: bold;
     font-size: .8em;
 }
