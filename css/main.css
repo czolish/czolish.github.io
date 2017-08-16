@@ -15,6 +15,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
     font-size: 1.5em;
     list-style: none;
+    font-family: 'Walter Turncoat', cursive;
 }
 
 a {
@@ -59,6 +60,7 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
     list-style: none;
+    font-family: 'Walter Turncoat', cursive;
 }
 
 /*
