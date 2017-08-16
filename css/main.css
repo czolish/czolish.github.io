@@ -18,10 +18,13 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    font-family: 'Walter Turncoat', cursive;
 }
 
 a:hover {
     text-decoration: underline;
+    font-family: 'Walter Turncoat', cursive;
+    color: #FF7D33;
 }
 
 h1 {
