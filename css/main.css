@@ -68,4 +68,9 @@ ul.posts li {
 h1.page-title {
     font-family: 'Fjalla One', sans-serif;
     font-size: 3em;
+}  
+
+.blurb {
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 1em;
 }    
