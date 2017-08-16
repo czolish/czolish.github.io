@@ -57,11 +57,11 @@ ul.posts li {
     list-style: none;
 }
 
-ul.nav {
+ul.nav li {
     font-size: 1em;
 }
 
-ul.footer {
+ul.footer li {
     font-size: 0.8em;
 }    
 
