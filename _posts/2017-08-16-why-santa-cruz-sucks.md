@@ -3,7 +3,7 @@ layout: post
 title: "Why Santa Cruz Sucks"
 date: 2017-08-16
 comments: true
-published: false
+published: true
 ---
 
 We moved to the city of Santa Cruz in September of 2013 to attend UCSC. I had some leftover financial aid funds from community college, and I worked all summer, so we were able to move in a month before classes started. We were so in love with the area at first! It was so much prettier than where we used to live, and it seemed really quaint and quiet. The apartment we found was the middle unit of a triplex, and it was a little rough around the edges, but it was bright and roomy, and it was in the perfect location -- right off the bus line that we took to class. We moved in before the apartment was finished, and we had to live a day without hot water, but we were finally living on our own! It was awesome!
