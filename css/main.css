@@ -4,7 +4,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -15,29 +15,29 @@ nav ul li, footer ul li {
     margin-right: 20px;
     font-size: 1.5em;
     list-style: none;
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 a {
     text-decoration: none;
     color: #999;
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 a:hover {
     text-decoration: underline;
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #FF7D33;
 }
 
 h1 {
     font-size: 3em;
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 h2  {
     font-size: 1.75em;
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }    
 
 p {
@@ -47,7 +47,7 @@ p {
 }
 
 p.meta {
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
 }    
     
@@ -60,7 +60,7 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
     list-style: none;
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 /*
@@ -78,13 +78,13 @@ ul.footer li {
 */
 
 .post-footer {
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     font-size: .8em;
 }
 
 .post {
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 1em;
 } 
 
@@ -95,6 +95,6 @@ h1.page-title {
 }  
 
 .blurb {
-    font-family: 'Walter Turncoat', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 1em;
 }    
