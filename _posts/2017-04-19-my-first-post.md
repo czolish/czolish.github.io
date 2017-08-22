@@ -10,4 +10,4 @@ This is my very first post! I have no idea what to write in here!
 
 Here's a picture of some kittens:
 <br>
-![Cute Kittens](https://lh3.googleusercontent.com/fa44expvfZrMe6nIG7n_7mblJJbI1FGaAJledcdzZjaLPzntm2rUWr2_4xxRXGadre41CdqyGHE=w640-h400-e365)
+![Cute Kittens](https://i.pinimg.com/736x/0e/e2/9e/0ee29e6db6ead0b02b4f23c28918d37c--adorable-animals-adorable-kittens.jpg)
