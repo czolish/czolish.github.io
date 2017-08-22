@@ -97,4 +97,10 @@ h1.page-title {
 .blurb {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1em;
-}    
+}  
+
+img {
+   max-width:100%;
+   height:auto;
+   max-height:100%;
+}
