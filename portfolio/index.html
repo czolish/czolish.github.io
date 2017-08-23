@@ -2,6 +2,13 @@
 layout: default
 title: Portfolio
 ---
+
+{% for portfolio in site.portfolio %}
+  <h2>
+    {{ portfolio.title }}
+  </h2>
+{% endfor %}
+
 <div class="blurb">
 	<h1 class="page-title">Coming Soon</h1>
 </div><!-- .blurb -->
