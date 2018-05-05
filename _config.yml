@@ -2,6 +2,9 @@ name: Czolish, newbie
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
+plugins:
+  - jekyll-seo-tag
+
 collections:
   portfolio:
     output: false
