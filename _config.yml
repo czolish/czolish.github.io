@@ -1,6 +1,7 @@
 name: Czolish, newbie
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+description: www.czupil.com
 
 plugins:
   - jekyll-seo-tag
