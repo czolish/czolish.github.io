@@ -113,6 +113,6 @@ img {
 }
 
 img.small-image {
-  max-width: 10px;
-  max-height: 10px;
+  max-width: 100px;
+  max-height: 100px;
 }
