@@ -98,7 +98,7 @@ ul.footer li {
 h1.page-title {
     font-family: 'Fjalla One', sans-serif;
     font-size: 3em;
-    color: #FF7D33
+    color: #FF7D33;
 }
 
 .blurb {
@@ -115,4 +115,6 @@ img {
 img.small-image {
   max-width: 100px;
   max-height: 100px;
+  padding: 5px;
+  border: 1px solid #FF7D33;
 }
