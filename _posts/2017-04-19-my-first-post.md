@@ -11,4 +11,4 @@ This is my very first post! I have no idea what to write in here!
 
 Here's a picture of my kitties!:
 
-<img src="teddy-leelu.jpg" alt="fur babies">
+<img src="/teddy-leelu.jpg" alt="fur babies">
