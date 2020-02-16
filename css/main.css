@@ -10,7 +10,15 @@ nav ul, footer ul {
     font-weight: bold;
 }
 
-nav ul li, footer ul li {
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 1em;
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+footer ul li {
     display: inline;
     margin-right: 20px;
     font-size: 1.5em;
